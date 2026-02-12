@@ -3,6 +3,7 @@ layout: post
 title: "我的第一篇开发学习记录"
 date: 2026-02-13 00:00:00 +0800
 categories: [日志, 开始]
+tags: [Electron, 新手, 学习方法]
 ---
 
 ## 我在做什么？
