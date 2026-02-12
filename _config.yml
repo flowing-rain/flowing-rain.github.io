@@ -10,3 +10,9 @@ minima:
 header_pages:
   - about.md
   - categories.md
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+show_excerpts: true
+excerpt_separator: "<!--more-->"
