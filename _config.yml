@@ -1,3 +1,11 @@
 title: flowing-rain的开发学习记录
 description: 一个新手开发者的成长日志
 theme: minima
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/flowing-rain" }
+
+header_pages:
+  - about.md
+  - categories.md
