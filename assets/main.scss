@@ -33,5 +33,11 @@ pre, code {
   opacity: 0.85;
 }
 
-/* Hide RSS subscribe line on home */
-.feed-subscribe { display: none; }
+/* Hide RSS subscribe line on home (force) */
+.feed-subscribe,
+a[href$="feed.xml"],
+a[href$="/feed.xml"],
+a[href$="atom.xml"],
+a[href$="/atom.xml"] {
+  display: none !important;
+}
