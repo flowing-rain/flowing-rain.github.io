@@ -10,6 +10,7 @@ minima:
 header_pages:
   - about.md
   - categories.md
+  - tags.md
 
 lang: zh-CN
 timezone: Asia/Shanghai
