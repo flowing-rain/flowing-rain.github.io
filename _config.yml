@@ -3,6 +3,7 @@ description: 一个新手开发者的成长日志
 theme: minima
 
 minima:
+  skin: dark
   social_links:
     - { platform: github, user_url: "https://github.com/flowing-rain" }
 
