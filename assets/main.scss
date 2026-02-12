@@ -24,3 +24,14 @@ pre, code {
   color: #c9d1d9 !important;
   border: 1px solid #30363d !important;
 }
+
+/* Chinese UI tweaks */
+.post-list-heading { display: none; } /* 隐藏 Posts 标题 */
+
+.post-meta {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+/* Hide RSS subscribe line on home */
+.feed-subscribe { display: none; }
