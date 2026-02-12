@@ -41,3 +41,15 @@ a[href$="atom.xml"],
 a[href$="/atom.xml"] {
   display: none !important;
 }
+
+/* Force hide any RSS/subscribe blocks or links */
+.feed-subscribe,
+.subscribe,
+a[href$="feed.xml"],
+a[href$="/feed.xml"],
+a[href$="atom.xml"],
+a[href$="/atom.xml"],
+a[href*="feed.xml"],
+a[href*="atom.xml"] {
+  display: none !important;
+}
