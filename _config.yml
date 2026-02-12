@@ -17,3 +17,6 @@ timezone: Asia/Shanghai
 
 show_excerpts: true
 excerpt_separator: "<!--more-->"
+
+show_excerpts: true
+excerpt_separator: "<!--more-->"
