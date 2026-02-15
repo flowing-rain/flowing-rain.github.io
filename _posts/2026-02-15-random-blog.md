@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的第一篇开发学习记录"
+title: "2"
 date: 2026-02-15 00:00:00 +0800
 categories: [日志]
 tags: [吐槽]
