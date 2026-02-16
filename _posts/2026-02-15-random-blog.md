@@ -2,7 +2,7 @@
 layout: post
 title: "第2篇"
 date: 2026-02-15 00:00:00 +0800
-categories: [日志]
+categories: [吐槽]
 tags: [吐槽]
 ---
 
