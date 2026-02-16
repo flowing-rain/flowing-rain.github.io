@@ -2,7 +2,7 @@
 layout: post
 title: "第4篇"
 date: 2026-02-16 20:35:00 +0800
-categories: [日志]
+categories: [吐槽]
 tags: [吐槽]
 ---
 基于利用GPT进行GitHub的个人blog开发，对于GPT理解力与自我表达能力的吐槽
