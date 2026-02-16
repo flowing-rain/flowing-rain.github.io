@@ -23,3 +23,19 @@ pre, code {
   color: #c9d1d9 !important;
   border-color: #30363d !important;
 }
+
+/* Remove white table background */
+table,
+table th,
+table td,
+table tr {
+  background-color: transparent !important;
+  color: #c9d1d9 !important;
+  border-color: #30363d !important;
+}
+
+/* Remove striped row effect */
+table tr:nth-child(even),
+table tr:nth-child(odd) {
+  background-color: transparent !important;
+}
